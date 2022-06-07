@@ -1,5 +1,5 @@
-//Nama  : M. Iqbal Nasmi Makarim
-//NPM   : G1A021094
+//Nama  : Ioshi Junika Fandha
+//NPM   : G1A021026
 //Kelas : Informatika-B
 
 #include <iostream>
